@@ -52,15 +52,6 @@ This notebook explores a customer churn dataset to understand who the customers 
 3. Update the file path in the first cell if needed (the notebook uses `/content/Customer-Churn.csv`, the Colab default).
 4. Run all cells (**Runtime → Run all** in Colab).
 
-## Next steps
-
-- [ ] Include `Churn` in the correlation analysis (it is encoded after the heatmap is drawn)
-- [ ] Encode the remaining text columns and check for hidden missing values (e.g. numeric columns stored as text)
-- [ ] Split into train and test sets
-- [ ] Train and compare models (Logistic Regression, Random Forest, XGBoost)
-- [ ] Evaluate with precision, recall, F1, ROC-AUC and a confusion matrix
-- [ ] Add feature importance and business recommendations to reduce churn
-
 ## Author
 
-*Your name* · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+*Famil* · [LinkedIn](https://www.linkedin.com/in/familazeez) · [GitHub](https://github.com/famil44)
